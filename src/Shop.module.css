@@ -1,0 +1,35 @@
+.page {
+  height: 100vh;
+  background-color: #1a1a2e;
+}
+.pagePara {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 900;
+}
+.shop {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+.modalOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.modal {
+  background: #1a1a2e;
+  border: 1px solid #0f3460;
+  border-radius: 12px;
+  padding: 2rem;
+  position: relative;
+  width: min(700px, 92vw);
+  max-height: 90vh;
+  overflow-y: auto;
+}
