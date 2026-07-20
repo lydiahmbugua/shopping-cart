@@ -1,5 +1,9 @@
 # Duka
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ace94c44-b0d6-41ef-8620-fb40d3075754/deploy-status)](https://app.netlify.com/sites/goofyshoppingcart/deploys)
+
+🔗 [Live Demo](https://goofyshoppingcart.netlify.app)
+
 Duka is a small single-page e-commerce storefront built with React and React Router. It pulls product data from the [Fake Store API](https://fakestoreapi.com), and lets users browse products, view details in a modal, adjust quantity, and manage a shopping cart — all without a page reload.
 
 ## Features
