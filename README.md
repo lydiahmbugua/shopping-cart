@@ -78,6 +78,4 @@ npm run build
 - No checkout flow
 - Accessibility and responsive-layout improvements in progress (keyboard navigation for product cards and cart controls, focus management in the product modal, and responsive breakpoints for mobile)
 
-## License
 
-Add a license of your choice (e.g. MIT) here.
